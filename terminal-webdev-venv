@@ -1,0 +1,4 @@
+Last login: Wed Dec  4 05:30:34 on ttys000
+Mac-503eaa0ab1a8:~ nicksculthorpe$ cd Venvs
+Mac-503eaa0ab1a8:Venvs nicksculthorpe$ source webdev/bin/activate
+(webdev) Mac-503eaa0ab1a8:Venvs nicksculthorpe$ 
